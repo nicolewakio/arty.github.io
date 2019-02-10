@@ -1,0 +1,24 @@
+img{
+  margin: 40px;
+  border: 0.8px ;
+  border: solid;
+  border-color: grey;
+}
+img.introduction{
+  width: 200px;
+  height: auto;
+  transition: transform .3s;
+  float:40px;
+
+}
+img.introduction:hover{
+  transform: scale(1.2);
+}
+.column{
+  margin:50px;
+  padding-left:150px;
+  text-decoration: underline;
+}
+div{
+  font-size: 25px;
+}
